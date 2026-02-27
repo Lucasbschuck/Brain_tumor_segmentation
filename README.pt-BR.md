@@ -1,5 +1,9 @@
 # README — Segmentação de Tumores Cerebrais (BraTS 2020/2024)
 
+🇺🇸 [Read in English](README.md) | 🇧🇷 Português
+
+---
+
 ## 1) Visão geral do trabalho
 Este repositório organiza todos os códigos e artefatos usados para avaliar o impacto das diferentes sequências de RM (T1n, T1c, T2w, T2f/FLAIR) em cenários cross-dataset entre BraTS 2020 e BraTS 2024.  
 
